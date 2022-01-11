@@ -7,7 +7,6 @@
     "longitude": 12.4922,
     "imageNames": [
       "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Rome/rome-colosseum-1.jpg?token=GHSAT0AAAAAABO2LV7MIEXHFDYWJFS3TOPAYPB3X6Q",
-      "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Rome/rome-colosseum-2.jpg?token=GHSAT0AAAAAABO2LV7N2FQ75U7764667C2EYPDFURQ",
       "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Rome/rome-colosseum-3.jpg?token=GHSAT0AAAAAABO2LV7MJVBLQAE2DYKPQZROYPDFU5A"
     ],
     "thumbnailImage" : "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Rome/rome-colosseum-2.jpg?token=GHSAT0AAAAAABO2LV7N2FQ75U7764667C2EYPDFURQ",
@@ -25,7 +24,6 @@
     "imageNames": [
       "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Rome/rome-pantheon-1.jpg?token=GHSAT0AAAAAABO2LV7NPTK5L4I6SUFEBTSQYPDFVGQ",
       "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Rome/rome-pantheon-2.jpg?token=GHSAT0AAAAAABO2LV7N2ITUGPWINWDWFKJGYPDFVQA",
-      "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Rome/rome-pantheon-3.jpg?token=GHSAT0AAAAAABO2LV7M3NCFB3WC5HX7LU4GYPDFVXA"
     ],
     "thumbnailImage" : "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Rome/rome-pantheon-3.jpg?token=GHSAT0AAAAAABO2LV7M3NCFB3WC5HX7LU4GYPDFVXA",
     "description": "The Pantheon is a former Roman temple and since the year 609 a Catholic church, in Rome, Italy, on the site of an earlier temple commissioned by Marcus Agrippa during the reign of Augustus.",
@@ -42,7 +40,6 @@
     "imageNames": [
       "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Rome/rome-trevifountain-1.jpg?token=GHSAT0AAAAAABO2LV7NECKWEHSZKSRYUKMWYPDFV7A",
       "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Rome/rome-trevifountain-2.jpg?token=GHSAT0AAAAAABO2LV7MRJQD6FTHYCRKWJ7MYPDFWHQ",
-      "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Rome/rome-trevifountain-3.jpg?token=GHSAT0AAAAAABO2LV7NVJ6PMGRDZKTV34Y4YPDFWPA",
       "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Rome/rome-trevifountain-4.jpg?token=GHSAT0AAAAAABO2LV7MCCEBT4IMAIUWBLQGYPDFWWQ"
     ],
     "thumbnailImage" : "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Rome/rome-trevifountain-3.jpg?token=GHSAT0AAAAAABO2LV7NVJ6PMGRDZKTV34Y4YPDFWPA",
@@ -58,7 +55,6 @@
     "latitude": 48.8584,
     "longitude": 2.2945,
     "imageNames": [
-      "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Paris/paris-eiffeltower-1.jpg?token=GHSAT0AAAAAABO2LV7N2NTF7ZV2BHXYUJ5OYPDFYGA",
       "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Paris/paris-eiffeltower-2.jpg?token=GHSAT0AAAAAABO2LV7NJU2IVEGXVN5IPWQQYPDFYQA"
     ],
     "thumbnailImage" : "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Paris/paris-eiffeltower-1.jpg?token=GHSAT0AAAAAABO2LV7N2NTF7ZV2BHXYUJ5OYPDFYGA",
@@ -76,7 +72,6 @@
     "imageNames": [
       "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Paris/paris-louvre-1.jpg?token=GHSAT0AAAAAABO2LV7M34MTOUB7LJGUPCQUYPDFY3A",
       "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Paris/paris-louvre-2.jpg?token=GHSAT0AAAAAABO2LV7MEW7JEIP6LAJJPEAQYPDFZDA",
-      "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Paris/paris-louvre-3.jpg?token=GHSAT0AAAAAABO2LV7NO6M4EKHQ5XJUBH3AYPDFZJQ"
     ],
     "thumbnailImage" : "https://raw.githubusercontent.com/FI-153/LandmarkerBackend/main/Images/Fullsize/Paris/paris-louvre-3.jpg?token=GHSAT0AAAAAABO2LV7NO6M4EKHQ5XJUBH3AYPDFZJQ",
     "description": "The Louvre, or the Louvre Museum, is the world's most-visited museum and a historic monument in Paris, France. It is the home of some of the best-known works of art, including the Mona Lisa and the Venus de Milo. A central landmark of the city, it is located on the Right Bank of the Seine in the city's 1st arrondissement.",
